@@ -1,2 +1,4 @@
-# react-components
-Component Library for Various projects
+# React Components
+React Components for Various Projects
+
+
